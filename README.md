@@ -1,18 +1,24 @@
-pkg update
+🔰CCTV_Hack for tool.
 
-pkg install python -y
+With this tool you will get the link of CC camera of any country in the world and you can see it live and this tool can be useful for you during war in any country.
+📍Install Linux / Termux
 
-git clone https://github.com/GH05T-HUNTER5/insta-breaker
+$ apt upgrade & update -y
 
-cd insta-breaker
+$ apt install python3 git -y
 
+$ git clone https://github.com/Raz-Ahamed/CCTV_Hack
 
-bash install.sh
+$ pip install -r requirements.txt
 
+$ cd CCTV_Hack
 
-insta-breaker
+$ chmod +x *
 
-use this cmods and enjoy!
+$ python3 cctv.py
 
+🥷 For more information and use of this tool in termux visit github link of this tool.
 
-brute force attack Instagram 
+NOW ENJOY AND USE THE TOOL... ✅
+
+GIVE REACTIONS 👍❤️
